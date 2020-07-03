@@ -2,11 +2,11 @@
 random word image genderator with pytorch Dataset utils
 
 # requirements
-pytorch. 
-torchvision. 
-Pillow. 
-opencv-python. 
-tqdm. 
+* pytorch
+* torchvision
+* Pillow
+* opencv-python
+* tqdm
 
 # Prepare Dataset
 
