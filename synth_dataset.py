@@ -232,6 +232,6 @@ class SynthDataset(Dataset):
 
 if __name__ == "__main__":
 
-    dataset = SynthDataset('path to font images', 32, 256, 100, transforms.Compose([Rand_Augment(), transforms.ToTensor()]) , debug=True)
+    dataset = SynthDataset('path to font images', 32, 256, 100, transforms.Compose([transforms.ToTensor()]) , debug=True)
     for d in dataset:
         print("---")
