@@ -21,4 +21,9 @@ python crop_font_image.py --dir_path='font images dir path' --target_path='path 
 </pre>
 
 3. Use dataset generator
-
+* debug
+<pre>
+<code>
+python synth_dataset.py
+</code>
+</pre>
