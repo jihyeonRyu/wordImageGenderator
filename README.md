@@ -1,10 +1,10 @@
 # wordImageGenderator
 random word image genderator with pytorch Dataset utils
 
-![ex](./10.png)
-![ex](./58.png)
-![ex](./59.png)
-![ex](./99.png)
+![ex](./10.png)  
+![ex](./58.png)  
+![ex](./59.png)  
+![ex](./99.png)  
 
 # requirements
 * pytorch
