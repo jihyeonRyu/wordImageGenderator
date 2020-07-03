@@ -1,5 +1,5 @@
-# wordImageGenderator
-random word image genderator with pytorch Dataset utils
+# wordImageGenerator
+random word image generator with pytorch Dataset utils
 
 ![ex](./10.png)  
 ![ex](./58.png)  
