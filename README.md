@@ -16,7 +16,7 @@ http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/EnglishFnt.tgz.
 2. Crop font images with no margin. 
 <pre>
 <code>
-python crop_font_image.py --dir_path='dir_path'
+python crop_font_image.py --dir_path='font images dir path' --target_path='path to target dir'
 </code>
 </pre>
 
